@@ -1,0 +1,307 @@
+{
+  "identity": {
+    "pmid": "42681939",
+    "doi": "10.1002/ctm2.70776",
+    "title": "CPT1A through succinylation regulates the CTCF/LINC01503‒91aa feedback loop to promote gemcitabine resistance in pancreatic ductal adenocarcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is one of the most malignant solid tumors, characterized by strong invasiveness and poor clinical prognosis. Recent studies have revealed that long non-coding RNAs (lncRNAs) can serve as translational templates to produce functional microproteins, which further participate in the regulation of cellular metabolism. OBJECTIVE: To investigate the function and detailed mechanism of the novel protein 1503-91aa encoded by LINC01503 in gemcitabine-resistant PDAC, and explore the possibility of clinical translation. METHODS: The differentially expressed lncRNAs in gemcitabine-resistant PDAC cells with coding potential were screened by whole transcriptome sequencing and coding prediction from database. A series of cellular, molecular and in vivo assays were performed to characterize the novel microprotein 1503-91aa, its upstream transcriptional regulation, and its role in mediating PDAC gemcitabine resistance. A series of molecular assays clarified the interaction between 1503-91aa and carnitine palmitoyl transferase 1A (CPT1A). Finally, the clinical translational potential of the CPT1A inhibitor etomoxir in combination with gemcitabine was validated using our center's gemcitabine-resistant patient-derived xenograft (PDX) model. RESULTS: Here, we revealed that LINC01503 had coding potential in drug-resistant PDAC and encoded a novel 91-amino acid protein, which designated as 1503-91aa. Simultaneously, LINC01503's transcriptional regulation is mediated by CTCF and then 1503-91aa expression levels were significantly upregulated in PDAC. Functionally, 1503-91aa, instead of LINC01503 confers gemcitabine resistance in vitro and in vivo. Mechanistically, 1503-91aa targeted the CPT1A, and up-regulated CPT1A activity through antagonizing the association of malonyl-CoA (MCoA), the best known metabolic intermediate inhibiting CPT1A, to promote fatty acid oxidation (FAO) and thereby facilitate gemcitabine resistance. We discovered that CPT1A functions as a succinyltransferase to regulate the succinylation level of CTCF, thereby controlling its stability. This establishes a positive feedback loop that continuously sustains 1503-91aa protein levels to regulate CPT1A activity. Consequently, this induces persistent FAO in PDAC cells, ensuring a continuous energy source that facilitates gemcitabine resistance in pancreatic cancer. Notably, the combined application of the etomoxir and gemcitabine exerts a synergistic effect on PDAC. CONCLUSIONS: These findings provide novel insights into the molecular mechanisms underlying gemcitabine resistance in PDAC and highlight CTCF/LINC01503-91aa/CPT1A feedback loop as a potential prognostic biomarkers and therapeutic targets. KEY POINTS: We identified that LINC01503 is capable of encoding the protein product 1503-91aa. 1503-91aa competed with MCoA to unleash CPT1A activity for fatty acid oxidation and thereby mediating gemcitabine resistance in PDAC. Etomoxir and gemcitabine have synergistic effects in gemcitabine efficiency.",
+    "keywords": [
+      "CPT1A",
+      "CTCF",
+      "LINC01503",
+      "chemoresistance",
+      "fatty acid oxidation",
+      "succinylation"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Gemcitabine",
+      "*Carcinoma, Pancreatic Ductal/drug therapy/genetics",
+      "*Deoxycytidine/analogs & derivatives/pharmacology/therapeutic use",
+      "*Drug Resistance, Neoplasm/genetics/drug effects",
+      "Animals",
+      "*Carnitine O-Palmitoyltransferase/metabolism/genetics",
+      "*Pancreatic Neoplasms/drug therapy/genetics",
+      "Mice",
+      "*CCCTC-Binding Factor/metabolism/genetics",
+      "*RNA, Long Noncoding/genetics/metabolism",
+      "Cell Line, Tumor",
+      "Female"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fang, De-Liang",
+        "Lu, Si-Yuan",
+        "Liu, Zhi-De",
+        "Xu, Qiong-Cong",
+        "Yu, Yang-Yinhui",
+        "Zhu, Ying-Qin",
+        "Ma, Ming-Jian",
+        "Ye, Jing-Yuan",
+        "Yin, Xiao-Yu"
+      ],
+      "short_names": [
+        "Fang DL",
+        "Lu SY",
+        "Liu ZD",
+        "Xu QC",
+        "Yu YY",
+        "Zhu YQ",
+        "Ma MJ",
+        "Ye JY",
+        "Yin XY"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5518-5984"
+      ],
+      "affiliations": [
+        "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.",
+        "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fang, De-Liang",
+        "short_name": "Fang DL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Si-Yuan",
+        "short_name": "Lu SY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhi-De",
+        "short_name": "Liu ZD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Qiong-Cong",
+        "short_name": "Xu QC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Yang-Yinhui",
+        "short_name": "Yu YY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Ying-Qin",
+        "short_name": "Zhu YQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Ming-Jian",
+        "short_name": "Ma MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Jing-Yuan",
+        "short_name": "Ye JY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Xiao-Yu",
+        "short_name": "Yin XY",
+        "identifiers": [
+          "0000-0002-5518-5984"
+        ],
+        "affiliations": [
+          "Department of Pancreato-Biliary Surgery, The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Clinical and translational medicine"
+    ],
+    "journal_abbrev": [
+      "Clin Transl Med"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-09 13:18:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42681939",
+      "40840404",
+      "39488785",
+      "40983183",
+      "41734476",
+      "41309519",
+      "25889214",
+      "42032684",
+      "41046501",
+      "33993382",
+      "41812332",
+      "41394830",
+      "40379759",
+      "29048549",
+      "38914663",
+      "39270979",
+      "39939803",
+      "39424627",
+      "36109793",
+      "33110235",
+      "39103840",
+      "31514732",
+      "31078621",
+      "27840243",
+      "28198398",
+      "41699675",
+      "37697370",
+      "40250076",
+      "38518727",
+      "41454527",
+      "29615098",
+      "39289547",
+      "30709769",
+      "39394197",
+      "38290659",
+      "38704133",
+      "27289231",
+      "41114465",
+      "30638935",
+      "35260193",
+      "29721083",
+      "37291514",
+      "33579599",
+      "32615164",
+      "40209023",
+      "40605033",
+      "39566663",
+      "31103629",
+      "38781729",
+      "37381714",
+      "33159833",
+      "41310714",
+      "41534431",
+      "29526843",
+      "41467942",
+      "33629745",
+      "30737032",
+      "36384875",
+      "31989778",
+      "26255562",
+      "27835602",
+      "38965506",
+      "40665634",
+      "27233476",
+      "39501138",
+      "41923319",
+      "25647019",
+      "30787177",
+      "42457018",
+      "26676747",
+      "32533886",
+      "36757299",
+      "27050073",
+      "34593522",
+      "30243721",
+      "28477403",
+      "41896201",
+      "26234680",
+      "38408959",
+      "34302921",
+      "36543619",
+      "38805171",
+      "30782607",
+      "26709920",
+      "31605325",
+      "39899193",
+      "40355947",
+      "41854891",
+      "39216548",
+      "27117533",
+      "23440261",
+      "40874518",
+      "41366466",
+      "39904115",
+      "26209568",
+      "25887381",
+      "28984028",
+      "24025152",
+      "39000545",
+      "39343354"
+    ],
+    "review": [
+      "42681939",
+      "36543619"
+    ],
+    "pmc": [
+      "13535135"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/pancreaticcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Pancreatic Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42681939/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70776",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

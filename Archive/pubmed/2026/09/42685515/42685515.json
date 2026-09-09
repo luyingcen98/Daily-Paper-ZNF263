@@ -1,0 +1,233 @@
+{
+  "identity": {
+    "pmid": "42685515",
+    "doi": "10.1016/j.repbio.2026.101281",
+    "title": "Comparative single-cell transcriptomics highlights species-biased developmental trajectories and candidate regulatory modules in primate spermatogenesis."
+  },
+  "content": {
+    "abstract": "Understanding primate testicular development is essential for elucidating the evolution of male fertility. Here, we integrated publicly available single-cell RNA sequencing datasets from 23 human and 4 macaque testes spanning infant to adult stages. Integrated analysis identified 22 conserved germ cell subtypes, including spermatogonial stem cells, spermatocytes, and spermatids. Notably, a human-enriched late spermatid-like transcriptional state, Sperm.C2, was enriched for genes involved in chromatin condensation, acrosome formation, and fertilization readiness, but was not detected in the macaque dataset analyzed here. Comparative transcriptomic profiling revealed age-related transcriptional dynamics in SSCs, reflecting species-biased developmental strategies between humans and macaques. Moreover, candidate regulators such as CELF4 and CTCF were predicted to be associated with SSC maintenance and spermatid maturation. Together, these findings delineate conserved and species-biased molecular programs governing spermatogenesis and provide a comparative framework for understanding primate germline development.",
+    "keywords": [
+      "Germline differentiation",
+      "Primate testis",
+      "Single-cell RNA sequencing",
+      "Species-specific transcriptional regulation",
+      "Spermatogenesis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Hanchao",
+        "Hua, Lin",
+        "Gao, Xintao",
+        "Wu, Xiaolong"
+      ],
+      "short_names": [
+        "Liu H",
+        "Hua L",
+        "Gao X",
+        "Wu X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Andrology, Sir Run Run Shaw Hospital, Affiliated with the Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Andrology, Sir Run Run Shaw Hospital, Affiliated with the Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Urology, Sir Run Run Shaw Hospital, Affiliated with the Zhejiang University School of Medicine, Hangzhou, Zhejiang, China. Electronic address: gaoxintao@zju.edu.cn.",
+        "Department of Andrology, Sir Run Run Shaw Hospital, Affiliated with the Zhejiang University School of Medicine, Hangzhou, Zhejiang, China. Electronic address: wuxiaolong@zju.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Hanchao",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Andrology, Sir Run Run Shaw Hospital, Affiliated with the Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Hua, Lin",
+        "short_name": "Hua L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Andrology, Sir Run Run Shaw Hospital, Affiliated with the Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Xintao",
+        "short_name": "Gao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Urology, Sir Run Run Shaw Hospital, Affiliated with the Zhejiang University School of Medicine, Hangzhou, Zhejiang, China. Electronic address: gaoxintao@zju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wu, Xiaolong",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Andrology, Sir Run Run Shaw Hospital, Affiliated with the Zhejiang University School of Medicine, Hangzhou, Zhejiang, China. Electronic address: wuxiaolong@zju.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Reproductive biology"
+    ],
+    "journal_abbrev": [
+      "Reprod Biol"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 01:19",
+    "fetched_at": "2026-09-09 13:18:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42685515",
+      "40407420",
+      "42688241",
+      "38727278",
+      "40340725",
+      "36902187",
+      "32504559",
+      "41665764",
+      "40694278",
+      "40884870",
+      "30893341",
+      "39241251",
+      "40804371",
+      "42144636",
+      "36834539",
+      "30810745",
+      "41770292",
+      "41272432",
+      "29194616",
+      "38927011",
+      "42411604",
+      "39985763",
+      "26181198",
+      "39565695",
+      "40867835",
+      "40549204",
+      "30726734",
+      "39000031",
+      "35856882",
+      "37175687",
+      "32795394",
+      "42383567",
+      "40814964",
+      "41688827",
+      "19925684",
+      "25267789",
+      "36933391",
+      "29749669",
+      "33754041",
+      "39739532",
+      "31338188",
+      "28938749",
+      "41087739",
+      "30753464",
+      "38948273",
+      "34970648",
+      "38310206",
+      "31247106",
+      "40802929",
+      "30315278",
+      "18652659",
+      "31487027",
+      "30146481",
+      "32867693",
+      "39062554",
+      "41148847",
+      "42176103",
+      "32412604",
+      "32691968",
+      "39388236",
+      "29304256",
+      "24719255",
+      "35858771",
+      "24140495",
+      "32110705",
+      "41282984",
+      "41398680",
+      "40892246",
+      "31254043",
+      "30096618",
+      "42097820",
+      "39985199",
+      "41797105",
+      "42074555",
+      "22926843",
+      "25849588",
+      "27076447",
+      "42210302",
+      "35798781",
+      "39404405",
+      "25624265",
+      "41622528",
+      "31928944",
+      "39337274",
+      "19797402",
+      "35715552",
+      "35938151",
+      "37732254",
+      "27612612",
+      "34622232",
+      "28914256",
+      "36688722",
+      "39470160",
+      "40482072",
+      "41126291",
+      "36569748",
+      "28130393",
+      "41808446",
+      "32145514",
+      "37874861"
+    ],
+    "review": [
+      "42685515",
+      "40407420",
+      "30810745",
+      "39000031",
+      "35856882",
+      "38948273",
+      "40802929",
+      "39062554",
+      "32110705",
+      "31254043",
+      "42097820"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1642-431X(26)00103-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1104",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

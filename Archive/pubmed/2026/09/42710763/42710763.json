@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "pmid": "42710763",
+    "doi": "10.1016/j.ijbiomac.2026.154368",
+    "title": "A lipoprotein-responsive circular RNA, circCTCF, couples extracellular lipid availability to mTOR signaling via ACSL5 in triple-negative breast cancer."
+  },
+  "content": {
+    "abstract": "Triple-negative breast cancer (TNBC) is an aggressive subtype with limited therapeutic options. While metabolic reprogramming is a hallmark of cancer, most studies have focused on cell-intrinsic alterations in glucose and amino acid metabolism, with comparatively little attention paid to how cancer cells sense and respond to extracellular lipid availability. Here, through an unbiased transcriptomic and circRNA profiling screen under lipoprotein-deprived conditions, we identify circCTCF, a circular RNA derived from the CTCF gene, as a lipoprotein-responsive regulator of lipid metabolism and proliferation in TNBC. circCTCF is significantly downregulated upon lipid withdrawal, and its depletion impairs cell growth while promoting lipid droplet accumulation. Conversely, circCTCF overexpression enhances proliferation and suppresses lipid storage. Mechanistically, circCTCF binds the RNA-binding protein G3BP2 through its back-splice junction sequence to stabilize ACSL5 mRNA, thereby sustaining ACSL5 expression, phosphatidic acid (PA) levels, and mTOR signaling. ACSL5 overexpression rescues PA and mTOR activity in circCTCF-deficient cells, establishing a linear circCTCF-ACSL5-PA-mTOR axis. Furthermore, circCTCF associates with G3BP2-positive stress granules upon heat shock, suggesting a potential link between this metabolic axis and stress-induced RNA regulatory networks. Collectively, these findings establish circCTCF as a critical node coupling extracellular lipid cues to intracellular metabolic control and identify the circCTCF-ACSL5-PA-mTOR axis as a potential therapeutic vulnerability in TNBC.",
+    "keywords": [
+      "ACSL5",
+      "CTCF",
+      "Lipoproteins",
+      "Triple negative breast cancer",
+      "circRNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Yuanyuan",
+        "Liu, Zhengyi",
+        "Su, Xuanyi",
+        "Hu, Xinyuan",
+        "Zhang, Qing",
+        "Zhang, Huiyang",
+        "Shicao, Duan",
+        "Cheng, Linna",
+        "Zhang, Xu Dong",
+        "Liu, Xiaoying",
+        "Chen, Song",
+        "Thorne, Rick F"
+      ],
+      "short_names": [
+        "Zhang Y",
+        "Liu Z",
+        "Su X",
+        "Hu X",
+        "Zhang Q",
+        "Zhang H",
+        "Shicao D",
+        "Cheng L",
+        "Zhang XD",
+        "Liu X",
+        "Chen S",
+        "Thorne RF"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China; Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China.",
+        "Department of Breast Surgery, Henan Provincial People's Hospital, People's Hospital of Zhengzhou University, People's Hospital of Henan University, Zhengzhou, Henan Province, 450003, China.",
+        "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China; Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China.",
+        "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China; Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China.",
+        "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China; Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China.",
+        "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China.",
+        "Henan Provincial People's Hospital, Henan Eye Hospital, Zhengzhou, 450003, China.",
+        "Institute of Hematology, Henan Key Laboratory of Stem Cell Clinical Application and Key Technology, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Henan University People's Hospital, Zhengzhou, 450003, Henan, China.",
+        "Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China.",
+        "Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China.",
+        "Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China. Electronic address: schen@zzu.edu.cn.",
+        "Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China. Electronic address: rickfthorne@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Yuanyuan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China; Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhengyi",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Breast Surgery, Henan Provincial People's Hospital, People's Hospital of Zhengzhou University, People's Hospital of Henan University, Zhengzhou, Henan Province, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Su, Xuanyi",
+        "short_name": "Su X",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China; Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Xinyuan",
+        "short_name": "Hu X",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China; Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qing",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China; Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Huiyang",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Medical Science, Zhengzhou University, Zhengzhou, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Shicao, Duan",
+        "short_name": "Shicao D",
+        "identifiers": [],
+        "affiliations": [
+          "Henan Provincial People's Hospital, Henan Eye Hospital, Zhengzhou, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Linna",
+        "short_name": "Cheng L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Hematology, Henan Key Laboratory of Stem Cell Clinical Application and Key Technology, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Henan University People's Hospital, Zhengzhou, 450003, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xu Dong",
+        "short_name": "Zhang XD",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiaoying",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Song",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China. Electronic address: schen@zzu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Thorne, Rick F",
+        "short_name": "Thorne RF",
+        "identifiers": [],
+        "affiliations": [
+          "Translational Research Institute, Henan Provincial People's Hospital, Zhengzhou University, Zhengzhou, 450003, China. Electronic address: rickfthorne@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological macromolecules"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Macromol"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 23:35",
+    "fetched_at": "2026-09-09 13:18:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42710763"
+    ],
+    "review": [
+      "42710763"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

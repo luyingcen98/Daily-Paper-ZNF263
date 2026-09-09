@@ -1,0 +1,230 @@
+{
+  "identity": {
+    "pmid": "42684189",
+    "doi": "10.1097/PAI.0000000000001347",
+    "title": "Profiling NFkappaB and VEGF Expression in Mouse Embryonic Stem Cells, Lung Cancer Cells, and Fibroblasts."
+  },
+  "content": {
+    "abstract": "Cancer is one of the leading causes of morbidity and mortality worldwide, with lung cancer ranked among the most lethal malignancies. A key hallmark of cancer progression is neovascularization, primarily mediated by vascular endothelial growth factor (VEGF), which stimulates vasculogenesis and angiogenesis. In parallel, the transcription factor nuclear factor of kappa B (NFkappaB) plays a critical role in inflammation, immune regulation, and tumor development by modifying numerous signaling pathways. In this study, we aimed to compare the expression levels of VEGF and NFkappaB in mouse embryonic stem cells (mESCs), fibroblasts, and lung cancer cells (LCCs) to probe cell-type-specific regulatory profiles. Protein levels were evaluated using immunofluorescence staining and quantified by corrected total cell fluorescence (CTCF), while mRNA expression was analyzed to relate protein-level findings. Our results showed no significant difference in NFkappaB protein expression among the 3-cell types. In contrast, VEGF protein expression was significantly higher in fibroblasts and lung cancer cells compared with embryonic stem cells. These findings propose that while NFkappaB may play a stable regulatory role across cell types, VEGF exhibits a dynamic expression pattern linked with angiogenic potential and cellular differentiation status.",
+    "keywords": [
+      "NFkappaB",
+      "VEGF",
+      "embryonic stem cell",
+      "lung cancer",
+      "somatic cell"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ozdil, Berrin",
+        "Acikgoz, Eda",
+        "Oktem, Gulperi",
+        "Kilic, Kubilay Dogan",
+        "Aktug, Huseyin"
+      ],
+      "short_names": [
+        "Ozdil B",
+        "Acikgoz E",
+        "Oktem G",
+        "Kilic KD",
+        "Aktug H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biophysics.",
+        "Department of Physics, Biophysics Laboratory, Faculty of Science, Izmir Institute of Technology, Izmir.",
+        "Department of Histology and Embryology, Faculty of Medicine, Van Yuzuncu Yil University, Van, Turkiye.",
+        "Department of Histology and Embryology, Faculty of Medicine, Ege University.",
+        "Department of Histology and Embryology, Faculty of Medicine, Ege University.",
+        "Department of Histology and Embryology, Faculty of Medicine, Ege University."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ozdil, Berrin",
+        "short_name": "Ozdil B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biophysics.",
+          "Department of Physics, Biophysics Laboratory, Faculty of Science, Izmir Institute of Technology, Izmir."
+        ]
+      },
+      {
+        "full_name": "Acikgoz, Eda",
+        "short_name": "Acikgoz E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Histology and Embryology, Faculty of Medicine, Van Yuzuncu Yil University, Van, Turkiye."
+        ]
+      },
+      {
+        "full_name": "Oktem, Gulperi",
+        "short_name": "Oktem G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Histology and Embryology, Faculty of Medicine, Ege University."
+        ]
+      },
+      {
+        "full_name": "Kilic, Kubilay Dogan",
+        "short_name": "Kilic KD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Histology and Embryology, Faculty of Medicine, Ege University."
+        ]
+      },
+      {
+        "full_name": "Aktug, Huseyin",
+        "short_name": "Aktug H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Histology and Embryology, Faculty of Medicine, Ege University."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Applied immunohistochemistry & molecular morphology : AIMM"
+    ],
+    "journal_abbrev": [
+      "Appl Immunohistochem Mol Morphol"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 01:13",
+    "fetched_at": "2026-09-09 13:18:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42684189",
+      "22112782",
+      "19112107",
+      "30724446",
+      "27725190",
+      "15704107",
+      "10813585",
+      "15874936",
+      "29798549",
+      "39334237",
+      "16410078",
+      "19242105",
+      "23947803",
+      "11953105",
+      "22336204",
+      "10675482",
+      "24121003",
+      "33760162",
+      "23907365",
+      "22363134",
+      "25162518",
+      "41381593",
+      "11423976",
+      "25948774",
+      "8968091",
+      "11371931",
+      "25145356",
+      "7688292",
+      "29212519",
+      "31889044",
+      "15256456",
+      "25016027",
+      "31148273",
+      "41686310",
+      "28741069",
+      "26472724",
+      "41356185",
+      "25919140",
+      "29268703",
+      "32030959",
+      "9918214",
+      "16202150",
+      "11204275",
+      "11306510",
+      "41210868",
+      "23744993",
+      "41563122",
+      "11102890",
+      "12471041",
+      "22890731",
+      "23624342",
+      "27823999",
+      "12754739",
+      "41895752",
+      "7781909",
+      "19285068",
+      "30238211",
+      "11519827",
+      "39526457",
+      "28279709",
+      "25278704",
+      "9816315",
+      "23254994",
+      "27324070",
+      "39344413",
+      "36300763",
+      "40210478",
+      "16375885",
+      "8569199",
+      "9660776",
+      "20135683",
+      "20197381",
+      "19604388",
+      "41566697",
+      "12810677",
+      "25535084",
+      "17656670",
+      "24639404",
+      "38853176",
+      "32991874",
+      "12485477",
+      "21134280",
+      "19275959",
+      "9476535",
+      "11819817",
+      "26553657",
+      "10918604",
+      "12839933",
+      "9620225",
+      "42475469",
+      "15026321",
+      "29463313",
+      "25296021",
+      "27130666",
+      "9865915",
+      "12786954",
+      "26302893",
+      "11206229",
+      "41912498",
+      "10440746"
+    ],
+    "review": [
+      "42684189",
+      "24639404"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.ovid.com/10.1097/PAI.0000000000001347",
+        "provider": "Wolters Kluwer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
